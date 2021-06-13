@@ -7,7 +7,7 @@
     <title>World's Current Weather</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
-<body>
+<body> 
     <div class="container-fluid">
         <div class="m-5 p-5 border">
             <h1 class="text-center">World's Current Weather</h1>
