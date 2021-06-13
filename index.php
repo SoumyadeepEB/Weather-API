@@ -10,7 +10,7 @@
 <body> 
     <div class="container-fluid">
         <div class="m-5 p-5 border">
-            <h1 class="text-center">World's Current Weatheraaaaaaaaaaaaa</h1>
+            <h1 class="text-center">World's Current Weather</h1>
             <form>
                 <div class="row">
                     <div class="col-md-12 pt-5 pl-5 pr-5">
